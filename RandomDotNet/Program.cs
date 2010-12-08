@@ -6,7 +6,8 @@
         {
             //DynamicHashVsDataTable_SimpleSearching.Run();
             //SelectIfSuccess.Run();
-            SendAndRespondTo.Run();
+            //SendAndRespondTo.Run();
+            OpenStruct.Run();
         }
     }
 }

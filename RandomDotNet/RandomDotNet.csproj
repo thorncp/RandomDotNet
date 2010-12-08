@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OpenStruct.cs" />
     <Compile Include="SelectIfSuccess.cs" />
     <Compile Include="DynamicHashVsDataTable_SimpleSearching.cs" />
     <Compile Include="Program.cs" />
